@@ -1,0 +1,7 @@
+# Azure Web App Environment Variables
+# Add these in Azure Portal > Configuration > Application Settings
+
+VITE_ENTRA_CLIENT_ID=5fb06660-53b8-495f-ad63-16f592775078
+VITE_ENTRA_TENANT_ID=71523396-e9e1-486e-b233-c44b04964d9d
+VITE_APPINSIGHTS_CONNECTION_STRING=d5bf0928-b4c3-4f3c-962b-50a1c3d91803
+NODE_ENV=production
